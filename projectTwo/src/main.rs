@@ -33,7 +33,7 @@ fn main() {
 
     println!();
 
-    let mut f: f32 = 9.8; // f is floating point
+    let f: f32 = 9.8; // f is floating point
     println!("f = {}", f);
     /*
     All float types:
