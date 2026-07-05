@@ -3,7 +3,7 @@
 ### Finding the source code:
 
 - See if your main.rs file is there, by using the ls terminal command,
-`~/RustroverProjects/LearningRust$ ls`, it'll should then output,
+`ls`, it'll should then output,
 `main.rs`.
 - If you don't see your rust file, you are probably in the wrong directory, use `cd` to navigate your project.
 
